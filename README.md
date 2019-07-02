@@ -1,6 +1,6 @@
 # SQL-Alchemy-Project-1
 
-The purpose of this project was to analyze the climate in Honolulu, Hawaii for particular dates.
+The purpose of this project was to analyze the climate in Honolulu, Hawaii for particular dates using SQL Alchemy.
 
   Precipitation Analysis:
  
